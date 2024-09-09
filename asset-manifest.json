@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iamshanipandey/tour-react-app/static/css/main.285df132.css",
+    "main.js": "/iamshanipandey/tour-react-app/static/js/main.9fcd15f6.js",
+    "index.html": "/iamshanipandey/tour-react-app/index.html",
+    "main.285df132.css.map": "/iamshanipandey/tour-react-app/static/css/main.285df132.css.map",
+    "main.9fcd15f6.js.map": "/iamshanipandey/tour-react-app/static/js/main.9fcd15f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285df132.css",
+    "static/js/main.9fcd15f6.js"
+  ]
+}
